@@ -1,0 +1,1 @@
+# Coding Bootcamp Praha - Autumn 2018 Exercises
