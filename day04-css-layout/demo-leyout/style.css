@@ -1,0 +1,45 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: sans-serif;
+  font-size: 18px;
+}
+
+body {
+  margin: 0;
+  width: 100vw;
+  height: 100vh;
+  background-image: url('img/grid.png');
+}
+
+nav {
+  text-align: center;
+  background-color: white;
+}
+
+nav span {
+  line-height: 2rem;
+  margin: 0 1rem;
+}
+
+.box {
+  text-align: center;
+  width: 6rem;
+  height: 6rem;
+  margin: 1rem auto;
+  padding: 2.5rem 0rem;
+  border-left: 1rem solid black;
+  border-right: 1rem solid transparent;
+  border-radius: 3rem;
+  background-color: orange;
+  color: white;
+  overflow: hidden;
+}
+
+.pos1 {
+  position: absolute;
+  top: 5rem;
+  left: 6rem;
+}
