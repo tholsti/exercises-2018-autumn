@@ -14,3 +14,7 @@
 * `day04-css-layout/morning-workout-solution` - Solution to the morning workout "*Styling an Article*".
 * `day04-css-layout/retreat-solution` - Solution to the "*Crownsnet Retreat*" playground assignment.
 
+### Day 5
+
+* `day05-flexbox/morning-workout-solution` - Solution to the morning workout "*A Product Page*".
+
