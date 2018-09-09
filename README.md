@@ -17,4 +17,5 @@
 ### Day 5
 
 * `day05-flexbox/morning-workout-solution` - Solution to the morning workout "*A Product Page*".
+* `day05-flexbox/portfolio` - Solution to the non-responsive version of the "*Aneta Webbie porftolio*" web page done in pure CSS.
 
