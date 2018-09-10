@@ -1,0 +1,37 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Forms</title>
+
+    <link rel="stylesheet" href="forms.css">
+</head>
+<body>
+    
+    <form action="" method="post">
+
+        <input type="hidden" name="foo" value="bar">
+
+        <input type="text" name="my_text" value="" placeholder="Insert text here">
+        <br>
+        <textarea name="my_text" placeholder="Insert text here"></textarea>
+        <br>
+        <label for="binary_checkbox">CHeckbox label</label>
+        <input type="checkbox" name="binary" value="1" checked id="binary_checkbox">
+        <br>
+        <input type="radio" name="binary" value="1" checked>
+        <input type="radio" name="binary" value="0">
+        <br>
+        <select name="color">
+            <option value="red" selected="selected">The red color</option>
+            <option value="green">The green color</option>
+            <option value="blue">The blue color</option>
+        </select>
+        <br>
+        <input type="submit" name="submit_button" value="Click me!">
+
+    </form>
+
+</body>
+</html>
