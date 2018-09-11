@@ -25,3 +25,8 @@
 * `day06-responsivity-and-forms/morning-workout-solution` - Solution to the morning workout "*A Flexbox Layout*".
 * `day06-responsivity-and-forms/portfolio-responsive` - Partly responsive version of the "*Aneta Webbie porftolio*" web page done in pure CSS.
 * `day06-responsivity-and-forms/responsive-design` - Simple mobile-first responsive page "*The Guardian*".
+
+### Day 7
+
+* `day07-gulp-and-sass/morning-workout-solution` - Solution to the morning workout "*A Web Hosting Website*".
+
