@@ -2,6 +2,10 @@
 
 ## Table of contents:
 
+### Project starter templates
+
+* `project-starters/gulp-scss` - Pure SCSS project with Gulp.
+
 ### Day 2
 
 * `day02-development-process/afternoon` - "*Welcome to Prague!*" HTML & CSS exercise.
