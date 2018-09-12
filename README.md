@@ -5,6 +5,7 @@
 ### Project starter templates
 
 * `project-starters/gulp-scss` - Pure SCSS project with Gulp.
+* `project-starters/bootstrap-scss` - Bootstrap with SCSS project.
 
 ### Day 2
 
