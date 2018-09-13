@@ -35,6 +35,12 @@
 
 * `day07-gulp-and-sass/morning-workout-solution` - Solution to the morning workout "*A Web Hosting Website*".
 
+### Day 8
+
+* `day08-bootstrap/morning-workout` - Solution to the morning workout "*A Coffee Heaven*".
+* `day08-bootstrap/gulp-scss` - Empty project for NPM and Gulp practise.
+* `day08-bootstrap/bootstrap` - Bootstrap Hello World - CDN, grid and navbar.
+
 ### Day 9
 
 * `day07-bootstrap-practice/morning-workout-solution` - Solution to the morning workout "*An Awesome Website*".
