@@ -35,3 +35,7 @@
 
 * `day07-gulp-and-sass/morning-workout-solution` - Solution to the morning workout "*A Web Hosting Website*".
 
+### Day 9
+
+* `day07-bootstrap-practice/morning-workout-solution` - Solution to the morning workout "*An Awesome Website*".
+
